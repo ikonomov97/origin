@@ -1,0 +1,11 @@
+commit 84229c9f206b6aeff6aaa11ec6af448bde36186a (HEAD -> logging, origin/master, master)
+Author: student <student@labstudenti.finki.ukim.mk>
+Date:   Fri Mar 16 15:55:21 2018 +0100
+
+    modify l1.txt
+
+commit cef2052fefcd5d4d5498d28171990644d9d81d94
+Author: student <student@labstudenti.finki.ukim.mk>
+Date:   Fri Mar 16 15:54:53 2018 +0100
+
+    initial commit
